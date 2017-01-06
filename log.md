@@ -17,12 +17,10 @@
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
 
 
-<!--### Day 1: June 27, Monday
+### Day 3: January 5, 2017
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Fixed a few bugs from yesterday's HTML and started the next section.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Today was not as productive, most of my time was spent on research to figure out a better solutio to yesterday's issue.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)--->
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
