@@ -34,3 +34,11 @@
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
 
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Added more CSS to the nav bar. Created a placeholder photo galary.
+
+**Thoughts**: I wanted to try to make my nav links active as I scrolled through them but that didn't work, so I built some placeholders for gallery images instead.
+
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
