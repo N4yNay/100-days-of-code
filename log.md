@@ -42,3 +42,12 @@
 **Thoughts**: I wanted to try to make my nav links active as I scrolled through them but that didn't work, so I built some placeholders for gallery images instead.
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
+
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Fixed up some divs and I added a link to Font Awesome in order to plug in links to social media.
+
+**Thoughts**: It's coming along pretty well. A few more days and I think I'll have the webpage perfect.
+
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
