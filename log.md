@@ -51,3 +51,12 @@
 **Thoughts**: It's coming along pretty well. A few more days and I think I'll have the webpage perfect.
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
+
+
+### Day 7: January 9, 2017
+
+**Today's Progress**: Added my social media links to the footer also cleaned up my contact section's code and added a form.
+
+**Thoughts**: Everything is begining to look really good. I think I could be done by tomorrow or the next day.
+
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
