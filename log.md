@@ -60,3 +60,12 @@
 **Thoughts**: Everything is begining to look really good. I think I could be done by tomorrow or the next day.
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
+
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Created href links to previous work as well as included an img. Expanded #Section1 and #section2 also added margins to #section1-header and #section3-header.
+
+**Thoughts**: I finally finished my portfolio project! It's nothing fancy but that's what I like about it.
+
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
