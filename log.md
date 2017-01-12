@@ -69,3 +69,12 @@
 **Thoughts**: I finally finished my portfolio project! It's nothing fancy but that's what I like about it.
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
+
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Created a submit button for the contact form, decreased the size of the image in #section1, and increased the margins and padding thoughout the page.
+
+**Thoughts**: Yesterday I thought I was done with my portfolio but I forgot a few minor bits.
+
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
