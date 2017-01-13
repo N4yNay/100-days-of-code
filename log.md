@@ -78,3 +78,12 @@
 **Thoughts**: Yesterday I thought I was done with my portfolio but I forgot a few minor bits.
 
 **Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/N4yNay/pen/apbjqm)
+
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Learned some JavaScript.
+
+**Thoughts**: Lots of math! It's super fun!
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
