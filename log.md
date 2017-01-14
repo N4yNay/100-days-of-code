@@ -87,3 +87,12 @@
 **Thoughts**: Lots of math! It's super fun!
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 11: January 13, 2017
+
+**Today's Progress**: More JavaScript. 
+
+**Thoughts**: Strings are crazy.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
