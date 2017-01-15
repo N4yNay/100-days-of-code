@@ -96,3 +96,12 @@
 **Thoughts**: Strings are crazy.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 12: January 14, 2017
+
+**Today's Progress**: Worked on JavaScript strings. 
+
+**Thoughts**: Strings are still crazy. Especially concatenations.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
