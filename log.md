@@ -105,3 +105,12 @@
 **Thoughts**: Strings are still crazy. Especially concatenations.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 13: January 15, 2017
+
+**Today's Progress**: Learned about Arrays in JavaScript. 
+
+**Thoughts**: Arrays are so much easier.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
