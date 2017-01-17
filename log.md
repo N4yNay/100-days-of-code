@@ -114,3 +114,12 @@
 **Thoughts**: Arrays are so much easier.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 14: January 16, 2017
+
+**Today's Progress**: Learned boolean in JavaScript. 
+
+**Thoughts**: I enjoy logic based code.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
