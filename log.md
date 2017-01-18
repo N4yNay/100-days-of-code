@@ -123,3 +123,12 @@
 **Thoughts**: I enjoy logic based code.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 15: January 17, 2017
+
+**Today's Progress**: More JavaScript. 
+
+**Thoughts**: if, if else, else, and switch are pretty easy to understand. I kept tripping up on small things but it was really easy to figure out what I did wrong and move on.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
