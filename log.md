@@ -132,3 +132,12 @@
 **Thoughts**: if, if else, else, and switch are pretty easy to understand. I kept tripping up on small things but it was really easy to figure out what I did wrong and move on.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 16: January 18, 2017
+
+**Today's Progress**: Learned to work on objects in JavaScript. 
+
+**Thoughts**: This is a pretty simple concept. I understand it but I've had to look up a few things in order to reduce sintax errors.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
