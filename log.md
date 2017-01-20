@@ -141,3 +141,12 @@
 **Thoughts**: This is a pretty simple concept. I understand it but I've had to look up a few things in order to reduce sintax errors.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Still learning JavaScript. 
+
+**Thoughts**: I've run out of things to say about JavaScript.
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
