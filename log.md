@@ -150,3 +150,12 @@
 **Thoughts**: I've run out of things to say about JavaScript.
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 18: January 20, 2017
+
+**Today's Progress**: Learning more basic JavaScript. 
+
+**Thoughts**: ...
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
