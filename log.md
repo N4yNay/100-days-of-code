@@ -159,3 +159,12 @@
 **Thoughts**: ...
 
 **Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
+
+
+### Day 19: January 21, 2017
+
+**Today's Progress**: JavaScript. 
+
+**Thoughts**: Almost 10 days of learning JavaScript!
+
+**Link(s) to work**: [Free Code Camp: JavaScript](https://www.freecodecamp.com/n4ynay)
